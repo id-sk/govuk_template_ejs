@@ -1,6 +1,6 @@
 {
   "name": "idsk_template_ejs",
-  "version": "0.24.7",
+  "version": "1.24.8",
   "description": "Embedded JavaScript packaged version of the ID-SK template",
   "keywords": ["alphagov", "id-sk", "ejs", "template"],
   "bugs": "https://github.com/id-sk/idsk_template_ejs/issues",
